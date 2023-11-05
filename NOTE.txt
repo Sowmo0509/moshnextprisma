@@ -1,0 +1,2 @@
+they used issue migration in db 
+i used initial migration in db
